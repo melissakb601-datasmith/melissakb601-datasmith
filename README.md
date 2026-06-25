@@ -5,10 +5,10 @@
 ---
 
 ## About  
-I work with data to uncover insights, create clear visual stories, and communicate findings that support smarter decisions.
+I work with data to uncover insights, create clear visual stories, and communicate findings that support smarter decisions, backed by a strong foundation in database administration and a deep understanding of data structures and the performance challenges of working with large datasets.
 Focus areas include:  
 - Data visualization and dashboarding  
-- Predictive modeling  
+- Business analytics
 - Data cleaning and transformation  
 
 ---
@@ -31,13 +31,13 @@ Focus areas include:
 
 ## Tools  
 **Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit‑learn, Matplotlib, Seaborn  
+**Libraries:** Pandas, NumPy, Scikit‑learn, Matplotlib  
 **Visualization:** Power BI, Tableau  
-**Other:** Jupyter, Git  
+**Other:** Git  
 
 ---
 
 ## Contact  
-**LinkedIn:** [your link]()  
-**Email:** [your email]()  
+**LinkedIn:** [(https://www.linkedin.com/in/melissa-b-16139b407/)]()  
+**Email:** [melissakb601@gmail.com]()  
 
