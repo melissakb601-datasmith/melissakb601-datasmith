@@ -1,6 +1,6 @@
 # melissakb601-datasmith
 # Melissa  B
-**Data Visualization • Business Data Analytics • Machine Learning**
+** • Business Data Analytics • Data Visualization**
 
 ---
 
@@ -16,11 +16,11 @@ Focus areas include:
 ## Projects  
 
 ### Data Visualization  
-- **Project Title** — brief description  
+- **Project Title** — Data Driven Strategies for Improving Chicago's Permit Process 
   - Repo: [link]()
 
 ### Business Analytics  
-- **Project Title** — brief description  
+- **Project Title** —  
   - Repo: [link]()
 
 ### Machine Learning  
@@ -33,7 +33,7 @@ Focus areas include:
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Scikit‑learn, Matplotlib  
 **Visualization:** Power BI, Tableau  
-**Other:** Git  
+**Other:** Excel, Git  
 
 ---
 
