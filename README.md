@@ -1,5 +1,5 @@
 # melissakb601-datasmith
-# Melissa  
+# Melissa  B
 **Data Visualization • Business Data Analytics • Machine Learning**
 
 ---
