@@ -30,9 +30,9 @@ Focus areas include:
 ---
 
 ## Tools  
+**Visualization:** Power BI, Tableau  
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Scikit‑learn, Matplotlib  
-**Visualization:** Power BI, Tableau  
 **Other:** Excel, Git  
 
 ---
