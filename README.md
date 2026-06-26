@@ -5,7 +5,8 @@
 ---
 
 ## About  
-I work with data to uncover insights, create clear visual stories, and communicate findings that support smarter decisions, backed by a strong foundation in database administration and a deep understanding of data structures and the performance challenges of working with large datasets.
+I analyze data to reveal insights, craft intuitive visual stories, and communicate results that support informed decision‑making. My approach is strengthened by a solid foundation in database administration, a deep understanding of data structures, and expertise in optimizing performance for large datasets.
+
 Focus areas include:  
 - Data visualization and dashboarding  
 - Business analytics
