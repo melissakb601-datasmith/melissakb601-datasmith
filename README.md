@@ -15,12 +15,12 @@ Focus areas include:
 
 ## Projects  
 
-### Data Visualization  
-- **Project Title** — Data Driven Strategies for Improving Chicago's Permit Process 
+### Business Analytics  
+- **Project Title** —  Olist Sales Dashboard
   - Repo: [link]()
 
-### Business Analytics  
-- **Project Title** —  
+### Data Visualization  
+- **Project Title** — Data Driven Strategies for Improving Chicago's Permit Process 
   - Repo: [link]()
 
 ### Machine Learning  
