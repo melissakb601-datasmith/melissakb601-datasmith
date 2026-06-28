@@ -18,7 +18,7 @@ Focus areas include:
 
 ### Business Analytics  
 - **Project Title** —  Olist Revenue and Seller Performance Dashboard
-  - Repo: [link]()
+  - Repo: [link](https://github.com/melissakb601-datasmith/Olist-Revenue-and-Seller-Performance-Dashboard/blob/main/README.md)
 
 ### Data Visualization  
 - **Project Title** — Data Driven Strategies for Improving Chicago's Permit Process 
