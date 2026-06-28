@@ -17,7 +17,7 @@ Focus areas include:
 ## Projects  
 
 ### Business Analytics  
-- **Project Title** —  Olist Sales Dashboard
+- **Project Title** —  Olist Revenue and Seller Performance Dashboard
   - Repo: [link]()
 
 ### Data Visualization  
