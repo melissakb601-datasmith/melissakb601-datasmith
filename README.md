@@ -25,8 +25,8 @@ Focus areas include:
   - Repo: [link](https://github.com/melissakb601-datasmith/Chicago-Permit-Analysis/blob/main/README.md)
 
 ### Machine Learning  
-- **Project Title** — brief description  
-  - Repo: [link]()
+- **Project Title** — Credit Default Prediction — SVM Model 
+  - Repo: [link](https://github.com/melissakb601-datasmith/Credit-Default-SVM/blob/main/README.md)
 
 ---
 
