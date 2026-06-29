@@ -21,8 +21,8 @@ Focus areas include:
   - Repo: [link](https://github.com/melissakb601-datasmith/Olist-Revenue-and-Seller-Performance-Dashboard/blob/main/README.md)
 
 ### Data Visualization  
-- **Project Title** — Data Driven Strategies for Improving Chicago's Permit Process 
-  - Repo: [link]()
+- **Project Title** — Developer Permit Strategies in Chicago's Emerging Neighborhoods
+  - Repo: [link](https://github.com/melissakb601-datasmith/Chicago-Permit-Analysis/blob/main/README.md)
 
 ### Machine Learning  
 - **Project Title** — brief description  
@@ -34,7 +34,7 @@ Focus areas include:
 **Visualization:** Power BI, Tableau  
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Scikit‑learn, Matplotlib  
-**Other:** Excel, Git  
+**Other:** Excel, Power Query, Git  
 
 ---
 
