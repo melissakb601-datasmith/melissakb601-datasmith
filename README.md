@@ -29,7 +29,7 @@ Focus areas include:
   - Repo: [link](https://github.com/melissakb601-datasmith/Credit-Default-SVM/blob/main/README.md)
 
 - **Project Title** — Portfolio Diversification using Hierarchical Clustering 
-  - Repo: [link](https://github.com/melissakb601-datasmith/hierarchical-stock-classifications))
+  - Repo: [link](https://github.com/melissakb601-datasmith/hierarchical-stock-classifications)
 ---
 
 ## Tools  
