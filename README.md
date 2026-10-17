@@ -25,10 +25,10 @@ Focus areas include:
   - Repo: [link](https://github.com/melissakb601-datasmith/Chicago-Permit-Analysis/blob/main/README.md)
 
 ### Machine Learning  
-- **Project Title** — Credit Default Prediction — SVM Model 
+- **Project Title** — Credit Default Prediction — SVM Model
   - Repo: [link](https://github.com/melissakb601-datasmith/Credit-Default-SVM/blob/main/README.md)
 
-- **Project Title** — Portfolio Diversification using Hierarchical Clustering 
+- **Project Title** — Portfolio Diversification using Hierarchical Clustering
   - Repo: [link](https://github.com/melissakb601-datasmith/hierarchical-stock-classifications)
 ---
 
