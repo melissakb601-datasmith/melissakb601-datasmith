@@ -17,7 +17,7 @@ Focus areas include:
 ## Projects  
 
 ### Business Analytics  
-- **Project Title** —  Olist Revenue and Seller Performance Dashboard
+- **Project Title** — Olist Revenue and Seller Performance Dashboard
   - Repo: [link](https://github.com/melissakb601-datasmith/Olist-Revenue-and-Seller-Performance-Dashboard/blob/main/README.md)
 
 ### Data Visualization  
@@ -27,9 +27,9 @@ Focus areas include:
 ### Machine Learning  
 - **Project Title** — Credit Default Prediction — SVM Model
   - Repo: [link](https://github.com/melissakb601-datasmith/Credit-Default-SVM/blob/main/README.md)
-
-- **Project Title** — Developer Permit Strategies in Chicago's Emerging Neighborhoods
+- **Project Title** — Portfolio Diversification using Hierarchical Clustering
   - Repo: [link](https://github.com/melissakb601-datasmith/hierarchical-stock-classifications/blob/main/README.md)
+
 ---
 
 ## Tools  
