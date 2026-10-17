@@ -28,7 +28,7 @@ Focus areas include:
 - **Project Title** — Credit Default Prediction — SVM Model
   - Repo: [link](https://github.com/melissakb601-datasmith/Credit-Default-SVM/blob/main/README.md)
 
-- **Project Title** — - **Project Title** — Developer Permit Strategies in Chicago's Emerging Neighborhoods
+- **Project Title** — Developer Permit Strategies in Chicago's Emerging Neighborhoods
   - Repo: [link](https://github.com/melissakb601-datasmith/hierarchical-stock-classifications/blob/main/README.md)
 ---
 
