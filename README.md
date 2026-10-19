@@ -1,6 +1,6 @@
 # melissakb601-datasmith
 # Melissa  B
-** Machine Learning • Business Data Analytics • Data Visualization**
+**Machine Learning • Business Data Analytics • Data Visualization**
 
 ---
 
