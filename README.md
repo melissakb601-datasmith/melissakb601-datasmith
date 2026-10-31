@@ -21,7 +21,7 @@ Focus areas include:
   - Repo: [link](https://github.com/melissakb601-datasmith/Olist-Revenue-and-Seller-Performance-Dashboard/blob/main/README.md)
 
 ### Data Visualization  
-- **Project Title** — Developer Permit Strategies in Chicago's Emerging Neighborhoods
+- **Project Title** — Chicago Developer Permit Strategies: Optimizing Approvals and Identifying High-Growth Markets
   - Repo: [link](https://github.com/melissakb601-datasmith/Chicago-Permit-Analysis/blob/main/README.md)
 
 ### Machine Learning  
